@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spikeTag
+  - wallTag
+  - playerTag
+  - deneme
+  - wallTag2
+  - spikeTag2
+  - borderTopTag
+  - borderBottomTag
+  - borderLeftTag
+  - borderRightTag
+  - loopTopTag
+  - loopBottomTag
+  - foodTag
+  - wallUpTag1
+  - wallUpTag2
+  - wallDownTag1
+  - wallDownTag2
+  - spikeUpTag1
+  - spikeUpTag2
+  - spikeDownTag1
+  - spikeDownTag2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

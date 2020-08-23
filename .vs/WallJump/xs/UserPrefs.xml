@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0ECCA1EA-17AA-5C90-5009-DB7F5542C852}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScrips/gameControl.cs">
+    <Files>
+      <File FileName="Assets/MyScrips/gameControl.cs" Line="16" Column="57" />
+      <File FileName="Assets/MyScrips/playerMovement.cs" Line="121" Column="6" />
+      <File FileName="Assets/MyScrips/borderTop.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyScrips/borderBottom.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyScrips/loopTopScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyScrips/loopBottomScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fa5fb5e6-fe3e-42d6-91fe-46c415b5f88e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
